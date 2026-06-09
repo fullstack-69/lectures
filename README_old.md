@@ -1,0 +1,90 @@
+# Course Information
+- Course Name: `CPE 261497`: Selected Topics in Computer Software
+    - Title: *Fullstack Development*
+- Semester: `Fall 2025` (June 2025 - October 2025)
+- Instructors
+    - [Asst. Prof. Dome Potikanond, Ph.D., Department of Computer Engineering](https://www.cpe.eng.cmu.ac.th/lecturer-viewenglish.php?view_id=Dome)
+    - [Asst. Prof. Nirand Pisutha-Arnond, Ph.D., Department of Industrial Engineering](https://ie.eng.cmu.ac.th/en/people/faculty/56)
+
+
+# Lectures Topics
+
+
+## Lecture VDO Playlist
+
+- [Fullstack 68](https://www.youtube.com/playlist?list=PLNGLpHQhvGrtrp-1i6v9hK5HyvXD2BNT4)
+
+## Introduction
+
+- [HTML](/src/T01_intro/T01.html)
+- [PDF](/src/T01_intro/T01.pdf)
+
+## JS/TS
+
+- [HTML](/src/T02_js_ts/T02.html)
+- [PDF](/src/T02_js_ts/T02.pdf)
+
+## TypeScript ESM (Optional)
+
+- [HTML](/src/T02A_ts_esm/T02A.html)
+- [PDF](/src/T02A_ts_esm/T02A.pdf)
+
+## Preflight Project
+
+| Topic      | Links                                 |                                     |
+| ---------- | ------------------------------------- | ----------------------------------- |
+| DB         | [HTML](/src/T03_pf_db/T03.html)       | [PDF](/src/T03_pf_db/T03.pdf)       |
+| Backend    | [HTML](/src/T04_pf_backend/T04.html)  | [PDF](/src/T04_pf_backend/T04.pdf)  |
+| Frontend   | [HTML](/src/T05_pf_frontend/T05.html) | [PDF](/src/T05_pf_frontend/T05.pdf) |
+| Testing    | [HTML](/src/T06_pf_testing/T06.html)  | [PDF](/src/T06_pf_testing/T06.pdf)  |
+| Deployment | [HTML](/src/T07_pf_deploy/T07.html)   | [PDF](/src/T07_pf_deploy/T07.pdf)   |
+
+[Presentation](https://youtube.com/playlist?list=PLNGLpHQhvGrudVf6q3Y350Q1R7hOkG0Ec&si=UJz1f_nmYbygfUxs)
+
+## Database Design
+
+- [HTML](/src/D01_database_design/D01.html)
+- [PDF](/src/D01_database_design/D01.pdf)
+
+## Fullstack Landscape
+
+- [HTML](/src/T08_landscape/T08.html)
+- [PDF](/src/T08_landscape/T08.pdf)
+
+## Auth
+
+| Topic  | Links                               |                                   |
+| ------ | ----------------------------------- | --------------------------------- |
+| Part 1 | [HTML](/src/T09_auth_p1/T09p1.html) | [PDF](/src/T09_auth_p1/T09p1.pdf) |
+| Part 2 | [HTML](/src/T09_auth_p2/T09p2.html) | [PDF](/src/T09_auth_p2/T09p2.pdf) |
+| Part 3 | [HTML](/src/T09_auth_p3/T09p3.html) | [PDF](/src/T09_auth_p3/T09p3.pdf) |
+| Part 4 | [HTML](/src/T09_auth_p4/T09p4.html) | [PDF](/src/T09_auth_p4/T09p4.pdf) |
+
+## Backend Architecture Design
+
+- [HTML](/src/D02_backend_design/D02.html)
+- [PDF](/src/D02_backend_design/D02.pdf)
+
+## API Architecture and Design
+
+| Topic  | Links                                      |                                          |
+| ------ | ------------------------------------------ | ---------------------------------------- |
+| Part 1 | [HTML](/src/D03_backend_api_p1/D03p1.html) | [PDF](/src/D03_backend_api_p1/D03p1.pdf) |
+| Part 2 | [HTML](/src/D03_backend_api_p2/D03p2.html) | [PDF](/src/D03_backend_api_p2/D03p2.pdf) |
+| Part 3 | [HTML](/src/D03_backend_api_p3/D03p3.html) | [PDF](/src/D03_backend_api_p3/D03p3.pdf) |
+| Part 4 | [HTML](/src/D03_backend_api_p4/D03p4.html) | [PDF](/src/D03_backend_api_p4/D03p4.pdf) |
+
+## Data Fetching and State Management
+
+- [HTML](/src/T10_data_fetching/T10.html)
+- [PDF](/src/T10_data_fetching/T10.pdf)
+
+## Form and Validation
+
+- [HTML](/src/T11_form_validation/T11.html)
+- [PDF](/src/T11_form_validation/T11.pdf)
+
+## Frappe Framework
+
+- [HTML](/src/T12_frappe/T12.html)
+- [PDF](/src/T12_frappe/T12.pdf)
