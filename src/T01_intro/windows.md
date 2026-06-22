@@ -1,4 +1,4 @@
-# Preparation: Windows
+# Windows Setup (PowerShell 7 + Chocolatey)
 
 ## 1. Set Execution Policy in PowerShell 5
 
@@ -30,18 +30,10 @@
   - It might be listed as `PowerShell` with a higher version number, like `pwsh`.
 - Click `save`.
 
-## 5. Install software
+## 5. (Optional) Install software
 
 - Close and reopen Terminal with administrative right
 - `choco install vscode -y`
 - `choco install dbeaver -y`
 - `choco install git -y`
-- `choco install bind-toolsonly -y`
-- `choco install wireguard -y`
 - `choco install insomnia-rest-api-client`
-
-# 6. Disable WireGuard Autostart
-
-- Search for `Run`
-- Type `services.msc`
-- Locate your WireGuard tunnel(s), right-click, select Properties, and set Startup type to Manual.
