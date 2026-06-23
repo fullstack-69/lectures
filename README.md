@@ -13,7 +13,7 @@
 
 ## Lecture VDO Playlist
 
-- [Fullstack 69](#)
+- [Fullstack 69](https://youtube.com/playlist?list=PLNGLpHQhvGrvMjw5nLu9sCb8V_uacKgRV&si=59E4cO9-fPz1m4GF)
 
 ## Introduction
 
