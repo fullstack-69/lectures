@@ -26,9 +26,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T02_js_ts"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "src\T02_js_ts"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T02A_ts_esm"
 # npm run html $folder
@@ -42,9 +42,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T05_pf_frontend"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T05_pf_frontend"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\T06_pf_testing"
 # npm run html $folder
