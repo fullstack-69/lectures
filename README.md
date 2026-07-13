@@ -10,6 +10,7 @@
 ## Resources
 
 - [Powershell 7 + Chocolatey Setup](https://github.com/fullstack-69/lectures/blob/main/src/T01_intro/windows.md)
+- [`pnpm` Bug Report](https://gist.github.com/nnnpooh/cbcec88531d5c8a2cc458e0de5be4aa5)
 
 ## Lecture VDO Playlist
 
