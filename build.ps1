@@ -1,4 +1,8 @@
-$folder = "src\D01_database_design"
+# $folder = "src\D01_database_design"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\D02_docker"
 npm run html $folder
 npm run pdf $folder
 
