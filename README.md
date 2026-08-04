@@ -47,6 +47,7 @@
 - [HTML](/src/D01_database_design/D01.html)
 - [PDF](/src/D01_database_design/D01.pdf)
 - [Tutorial](https://github.com/26x497-FSD-staff/tutorial-db-2569/blob/main/README-DB.md)
+- [Git Repository](https://github.com/26x497-FSD-staff/tutorial-db-2569)
 
 ## Docker
 
