@@ -58,13 +58,13 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T08_landscape_p1"
-npm run html $folder
-npm run pdf $folder
-
-# $folder = "src\T08_landscape_p2"
+# $folder = "src\T08_landscape_p1"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "src\T08_landscape_p2"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T09_ts_esm"
 # npm run html $folder
