@@ -185,7 +185,8 @@
 <li><strong>Astro default</strong> is SSG, everything else is opt-in.</li>
 <li><strong>Next.js default</strong> is SSR, everything else is opt-in.
 <ul>
-<li>In V15 SSG/SSR is decided by compiler (with exceptions). In V16, with partial prerendering, SSG/SSR is decided by directives (<code>'use cache'</code>).</li>
+<li>In V15 SSG/SSR is per route and is decided by the compiler (with exceptions).</li>
+<li>In V16, with partial prerendering, SSG/SSR is per component and is decided by directives (<code>'use cache'</code>).</li>
 </ul>
 </li>
 <li><strong>TanStack Start default</strong> is isomorphic (SSR + SPA hydration), everything else is opt-in.</li>
