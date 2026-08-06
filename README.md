@@ -53,3 +53,10 @@
 
 - [HTML](/src/D02_docker/D02.html)
 - [PDF](/src/D02_docker/D02.pdf)
+
+## Fullstack Landscape
+
+| Topic  | Links                                    |                                        |
+| ------ | ---------------------------------------- | -------------------------------------- |
+| Part 1 | [HTML](/src/T08_landscape_p1/T08p1.html) | [PDF](/src/T08_landscape_p1/T08p1.pdf) |
+| Part 2 | [HTML](/src/T08_landscape_p2/T08p2.html) | [PDF](/src/T08_landscape_p2/T08p2.pdf) |

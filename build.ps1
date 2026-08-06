@@ -1,10 +1,10 @@
-$folder = "src\D01_database_design"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\D01_database_design"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\D02_docker"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\D02_docker"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\D02_backend_design"
 # npm run html $folder
@@ -58,9 +58,13 @@ npm run pdf $folder
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T08_landscape"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "src\T08_landscape_p1"
+npm run html $folder
+npm run pdf $folder
+
+$folder = "src\T08_landscape_p2"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T09_ts_esm"
 # npm run html $folder
