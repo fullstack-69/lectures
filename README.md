@@ -60,3 +60,9 @@
 | ------ | ---------------------------------------- | -------------------------------------- |
 | Part 1 | [HTML](/src/T08_landscape_p1/T08p1.html) | [PDF](/src/T08_landscape_p1/T08p1.pdf) |
 | Part 2 | [HTML](/src/T08_landscape_p2/T08p2.html) | [PDF](/src/T08_landscape_p2/T08p2.pdf) |
+
+## Auth
+
+| Topic  | Links                               |                                   |
+| ------ | ----------------------------------- | --------------------------------- |
+| Part 1 | [HTML](/src/T09_auth_p1/T09p1.html) | [PDF](/src/T09_auth_p1/T09p1.pdf) |
