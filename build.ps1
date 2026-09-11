@@ -10,21 +10,21 @@ $folder = "src\D03_backend_design"
 npm run html $folder
 npm run pdf $folder
 
-$folder = "src\D04_backend_api_p1"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\D04_backend_api_p1"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\D04_backend_api_p2"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\D04_backend_api_p2"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\D04_backend_api_p3"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\D04_backend_api_p3"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\D04_backend_api_p4"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\D04_backend_api_p4"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\T01_intro"
 # npm run html $folder
