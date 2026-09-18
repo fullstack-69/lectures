@@ -46,8 +46,8 @@
 
 - [HTML](/src/D01_database_design/D01.html)
 - [PDF](/src/D01_database_design/D01.pdf)
-- [Tutorial](https://github.com/26x497-FSD-staff/tutorial-db-2569/blob/main/README-DB.md)
-- [Git Repository](https://github.com/26x497-FSD-staff/tutorial-db-2569)
+- [Database Tutorial](https://github.com/26x497-FSD-staff/tutorial-backend1-db-2569/blob/main/README-DB.md)
+- [Git Repository](https://github.com/26x497-FSD-staff/tutorial-backend1-db-2569)
 
 ## Docker
 
@@ -75,6 +75,8 @@
 
 - [HTML](/src/D03_backend_design/D03.html)
 - [PDF](/src/D03_backend_design/D03.pdf)
+- [File Storage Tutorial](https://github.com/26x497-FSD-staff/tutorial-backend2-minio-2569/blob/main/README-Minio.md)
+- [Git Repository](https://github.com/26x497-FSD-staff/tutorial-backend2-minio-2569)
 
 ## API Architecture and Design
 
