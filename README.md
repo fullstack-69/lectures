@@ -75,8 +75,8 @@
 
 - [HTML](/src/D03_backend_design/D03.html)
 - [PDF](/src/D03_backend_design/D03.pdf)
-- [File Storage Tutorial](https://github.com/26x497-FSD-staff/tutorial-backend2-minio-2569/blob/main/README-Minio.md) | [Git Repository](https://github.com/26x497-FSD-staff/tutorial-backend2-minio-2569)
-- [Redis Cache Tutorial](https://github.com/26x497-FSD-staff/tutorial-backend3-redis-2569/blob/main/README-Redis.md) | [Git Repository](https://github.com/26x497-FSD-staff/tutorial-backend3-redis-2569)
+- [File Storage Tutorial](https://github.com/26x497-FSD-staff/tutorial-backend2-minio-2569/blob/main/README-Minio.md) - [Git Repository](https://github.com/26x497-FSD-staff/tutorial-backend2-minio-2569)
+- [Redis Cache Tutorial](https://github.com/26x497-FSD-staff/tutorial-backend3-redis-2569/blob/main/README-Redis.md) - [Git Repository](https://github.com/26x497-FSD-staff/tutorial-backend3-redis-2569)
 
 ## API Architecture and Design
 
