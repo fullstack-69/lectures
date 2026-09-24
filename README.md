@@ -85,3 +85,8 @@
 | Part 2 | [HTML](/src/D04_backend_api_p2/D04p2.html) | [PDF](/src/D04_backend_api_p2/D04p2.pdf) |
 | Part 3 | [HTML](/src/D04_backend_api_p3/D04p3.html) | [PDF](/src/D04_backend_api_p3/D04p3.pdf) |
 | Part 4 | [HTML](/src/D04_backend_api_p4/D04p4.html) | [PDF](/src/D04_backend_api_p4/D04p4.pdf) |
+
+## Data Fetching
+
+- [HTML](/src/T10_data_fetching/T10.html)
+- [PDF](/src/T10_data_fetching/T10.pdf)
